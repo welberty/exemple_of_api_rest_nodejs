@@ -1,0 +1,20 @@
+{
+  "name": "api-ecomerce",
+  "version": "0.0.0",
+  "description": "ApiEComerce",
+  "main": "app.js",
+  "author": {
+    "name": "welbe"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "mysql2": "^1.5.3",
+    "requiredir": "^1.0.7",
+    "sequelize": "^4.37.4",
+    "sequelize-auto-migrations": "^1.0.2",
+    "sequelize-cli": "^4.0.0",
+    "sequelize-mysql": "^1.7.0"
+  }
+}
